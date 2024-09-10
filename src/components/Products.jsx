@@ -9,7 +9,7 @@ const Products = () => {
       sx={{
         display: "flex",
         flexDirection: "column",
-        alignItems: "flex-start",
+        alignItems: "flex-end",
       }}
     >
       <NewProduct />

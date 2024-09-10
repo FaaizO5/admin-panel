@@ -36,7 +36,7 @@ export default function BasicTable() {
               Quantity
             </TableCell>
             <TableCell
-              sx={{ bgco10lor: "#212121", color: "white" }}
+              sx={{ bgcolor: "#212121", color: "white" }}
               align="center"
             >
               Cost
